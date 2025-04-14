@@ -1,5 +1,3 @@
-<h1 align="center" style="font-weight: bold;">♟️ Xadrez no Discord</h1>
-
 <p align="center">
   Um bot de Discord que permite jogar partidas de xadrez diretamente no chat com interface visual.
 </p>
@@ -13,7 +11,9 @@
 <p align="center">
   <a href="#Projeto">Projeto</a> •
   <a href="#Funcionalidades">Funcionalidades</a> •
+  <a href="#ComoJogar">Como jogar</a> •
   <a href="#Instalação">Instalação</a>
+
 </p>
 
 ---
@@ -21,16 +21,25 @@
 <h2 id="Projeto">📫 Projeto</h2>
 
 Este projeto consiste em um bot de Discord feito em Python que permite um usuário jogar xadrez interativamente via comandos no canal de texto contra uma inteligência artificial. O tabuleiro é atualizado graficamente a cada jogada.
+<p aling="center>  <\p>
 
 ---
 
+
 <h2 id="Funcionalidades">🎯 Funcionalidades</h2>
 
-- Movimentos de peças válidos (ex: `!mover e2 e4`)
+- Movimentos de peças válidos
 - Geração de imagem do tabuleiro atualizada após cada jogada
 - Regras básicas de xadrez implementadas
 - Visual simples com peças estilizadas
 
+---
+
+<h2 id="ComoJogar">♟️ Como Jogar</h2>
+
+- Para começar o jogo: `!start`
+- Para movimento de peças: `!mover d2 d4`
+  
 ---
 
 <h2 id="Instalação">📦 Instalação</h2>
